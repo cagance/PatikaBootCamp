@@ -19,5 +19,6 @@ public class AritmetikIşlemlerVeIşlemOnceligi {
 
         System.out.println("Sonuç: " + sonuc);
 
+
     }
 }
