@@ -16,5 +16,7 @@ public class AritmetikIşlemlerVeIşlemOnceligi {
         int sonuc = a + b * c - b;
 
         System.out.println("Sonuç: " + sonuc);
+
+        // bu bir denemedir
     }
 }
