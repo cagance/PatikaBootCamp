@@ -1,3 +1,5 @@
+package Odevler_Hafta1;
+
 import java.util.Scanner;
 
 public class AritmetikIşlemlerVeIşlemOnceligi {
