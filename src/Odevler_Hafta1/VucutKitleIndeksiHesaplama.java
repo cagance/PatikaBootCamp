@@ -6,7 +6,7 @@ public class VucutKitleIndeksiHesaplama {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Lütfen boyunuzu (metre cinsinde) giriniz : ");
+        System.out.print("Lütfen boyunuzu (metre cinsinden) giriniz : ");
         double boy = scanner.nextDouble();
 
         System.out.print("Lütfen kilonuzu giriniz : ");
